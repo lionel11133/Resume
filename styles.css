@@ -18,7 +18,6 @@ body {
   box-shadow: 0 12px 30px rgba(0,0,0,0.12);
 }
 
-/* Header */
 header {
   display: flex;
   align-items: center;
@@ -57,7 +56,6 @@ main {
   gap: 45px 50px;
 }
 section {
-  /* For sections spanning 2 columns */
 }
 
 h2 {
@@ -69,7 +67,6 @@ h2 {
   margin-bottom: 18px;
 }
 
-/* Typography for content */
 p, ul {
   font-size: 1rem;
   line-height: 1.5;
