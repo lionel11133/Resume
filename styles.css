@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
-/* Reset and base */
 * {
   box-sizing: border-box;
 }
@@ -84,12 +83,10 @@ ul li {
   margin-bottom: 8px;
 }
 
-/* Make some sections full width */
 .full-width {
   grid-column: 1 / -1;
 }
 
-/* Footer */
 footer {
   margin-top: 40px;
   text-align: center;
@@ -97,7 +94,6 @@ footer {
   color: #777;
 }
 
-/* Responsive */
 @media (max-width: 720px) {
   main {
     grid-template-columns: 1fr;
